@@ -1,1 +1,1 @@
-# This is my first blog to learning Git!!!
+# This is my first blog to learn Git Blog!!!
